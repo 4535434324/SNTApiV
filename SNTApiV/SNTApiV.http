@@ -1,0 +1,6 @@
+@SNTApiV_HostAddress = http://localhost:5072
+
+GET {{SNTApiV_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

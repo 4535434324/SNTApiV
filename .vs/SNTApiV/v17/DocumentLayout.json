@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SNT\\SNTApiV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1019C1BD-37E6-4139-92F5-CF214B0E1831}|SNTApiV\\SNTApiV.csproj|d:\\snt\\sntapiv\\sntapiv\\model\\control\\\u0442\u0438\u043F_\u0432\u0437\u043D\u043E\u0441\u0430controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1019C1BD-37E6-4139-92F5-CF214B0E1831}|SNTApiV\\SNTApiV.csproj|solutionrelative:sntapiv\\model\\control\\\u0442\u0438\u043F_\u0432\u0437\u043D\u043E\u0441\u0430controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1019C1BD-37E6-4139-92F5-CF214B0E1831}|SNTApiV\\SNTApiV.csproj|d:\\snt\\sntapiv\\sntapiv\\app\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1019C1BD-37E6-4139-92F5-CF214B0E1831}|SNTApiV\\SNTApiV.csproj|solutionrelative:sntapiv\\app\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0422\u0438\u043F_\u0432\u0437\u043D\u043E\u0441\u0430Controler.cs",
+              "DocumentMoniker": "D:\\SNT\\SNTApiV\\SNTApiV\\Model\\Control\\\u0422\u0438\u043F_\u0432\u0437\u043D\u043E\u0441\u0430Controler.cs",
+              "RelativeDocumentMoniker": "SNTApiV\\Model\\Control\\\u0422\u0438\u043F_\u0432\u0437\u043D\u043E\u0441\u0430Controler.cs",
+              "ToolTip": "D:\\SNT\\SNTApiV\\SNTApiV\\Model\\Control\\\u0422\u0438\u043F_\u0432\u0437\u043D\u043E\u0441\u0430Controler.cs",
+              "RelativeToolTip": "SNTApiV\\Model\\Control\\\u0422\u0438\u043F_\u0432\u0437\u043D\u043E\u0441\u0430Controler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T03:45:55.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\SNT\\SNTApiV\\SNTApiV\\App\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "SNTApiV\\App\\ApplicationContext.cs",
+              "ToolTip": "D:\\SNT\\SNTApiV\\SNTApiV\\App\\ApplicationContext.cs",
+              "RelativeToolTip": "SNTApiV\\App\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:12:28.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
